@@ -1,0 +1,81 @@
+# TIPE “ville”
+
+# 🏙️ Une ville optimisée
+
+**Problématique : En quoi la structure de la ville est elle importante ?**
+
+### To do:
+
+- [ ]  Retrouver le doctorat sur le vent dans la ville
+- [ ]  Recherche Dischtra
+- [ ]  Recherche Création de graphe optimisé
+- [ ]  
+
+# 1) Modélisation des trajets :
+
+## Thèmes :
+
+- Organisation des bâtiments
+- Bouchons
+- Recherche d’organisation
+- Mhein
+- Transport
+
+## Exemple :
+
+Barcelone Vs Londres dans les transports
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5ffb6b9-e010-4d49-9716-426b73563f0e/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8230b12-9ac3-464b-b698-5c0ad080e6b4/Untitled.png)
+
+                                1) Londres
+
+2)Barcelone
+
+## Recherche perso :
+
+- Méthode de création de graphe ordonné
+- Voyage dans un graphe pondéré
+    - Dichstra (jsp comment ça s’écrit) (tkt moi non plus je sais pas)
+- Changement de pondération en fonction du temps pour les arrêtes
+
+## Matière :
+
+- Informatique
+    - Graphe pour modélisation des rues (pondéré pour le trafique)
+
+---
+
+# 2) Diriger le vent :
+
+## Thèmes :
+
+- Mécha des fluides
+- Architecture
+- Optimisation
+- Utilisation des ressources dispo
+
+## Exemple :
+
+‼️ pas encore d’exemple‼️
+
+## Recherches Perso :
+
+- Re-trouver le doctorat sur le vent
+- Voir comment mesurer le vent
+- Les utilisation du vent
+- Pourquoi changer où le vent vas
+- Soufflerie
+    
+    [Idée soufflerie & maquette](https://www.notion.so/Id-e-soufflerie-maquette-5bb0d6da62c34ecebeaa70b034f8dbd2)
+    
+
+## Matière :
+
+- Physique
+    - Meca des fluides
+    - Composition bat
+    - Converstion énérgie
+- Informatique
+    - Traitement de l’information
